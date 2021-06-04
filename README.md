@@ -12,3 +12,6 @@ extend the visitor and inject a visitor factory creating the newly extended visi
 Unfortunately I didn't have time to work on the input validation. 
 I have placed some basic annotations on the dto and I didn't provide any test for those sorry. 
 The validation approach would be using the standard Java validation framework    
+
+To run the application: 
+gradle run
